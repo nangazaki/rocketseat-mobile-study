@@ -1,1 +1,1 @@
-# rocketseat-mobile-study
+# Rocketseat Mobile Study
